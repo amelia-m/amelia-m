@@ -1,16 +1,39 @@
-## Hi there 👋
+## Amelia Miramonti
 
-<!--
-**amelia-m/amelia-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Postdoctoral researcher at the Nebraska Evaluation and Research (NEAR) Center
+and adjunct faculty in Educational Psychology at the University of
+Nebraska–Lincoln. I work on measurement, missing data, and privacy-preserving
+synthetic data, and I build R and Shiny tools for the unglamorous middle of
+applied research: documenting, cleaning, linking, and reporting on
+administrative data.
 
-Here are some ideas to get you started:
+Most of it starts the same way — a dataset somebody needs to trust and can't yet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building
+
+- **[recode-studio](https://github.com/amelia-m/recode-studio)** — clean messy
+  string variables without writing R by hand. Exports the recode rules, so next
+  quarter's data gets the same treatment as last quarter's.
+- **[table-explorer](https://github.com/amelia-m/table-explorer)** — point it at
+  files or a database and get auto-detected primary and foreign keys, an
+  interactive ERD, and a report you can hand to someone. R/Shiny, with a
+  Python/Streamlit port.
+- **[lspc-weather](https://amelia-m.github.io/lspc-weather/)** — skydiving
+  weather for my drop zone. Every flag cites the published USPA, FAA, or club
+  rule behind it, and where nothing published sets a threshold, it raises no
+  flag at all.
+- **[pleasantry](https://github.com/amelia-m/pleasantry)** — randomized
+  compliments and farewells, from sincere through backhanded to
+  pseudo-Shakespearean. Written in a posit::conf(2026) workshop. Not serious;
+  tested anyway.
+
+### Also
+
+Teaching data management and survey methods to graduate students. Generating
+synthetic versions of Nebraska's statewide longitudinal data so researchers can
+work with it without exposing anyone. An earlier life in sport and exercise
+science, which is where the neuromuscular physiology papers came from.
+
+[amelia-m.github.io](https://amelia-m.github.io) ·
+[ORCID](https://orcid.org/0000-0002-0277-4064) ·
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=AcbJlasAAAAJ)
