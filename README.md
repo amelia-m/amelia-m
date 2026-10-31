@@ -1,11 +1,8 @@
 ## Amelia Miramonti
 
-Postdoctoral researcher at the Nebraska Evaluation and Research (NEAR) Center
-and adjunct faculty in Educational Psychology at the University of
-Nebraska–Lincoln. I work on measurement, missing data, and privacy-preserving
-synthetic data, and I build R and Shiny tools for the unglamorous middle of
-applied research: documenting, cleaning, linking, and reporting on
-administrative data.
+I'm a quantitative methodologist at the University of Nebraska–Lincoln. I help
+people work out whether their data measures what they think it does, and when
+the same problem keeps coming up, I build an R or Shiny tool for it.
 
 Most of it starts the same way: a dataset somebody needs to trust and can't yet.
 
