@@ -27,13 +27,6 @@ Most of it starts the same way — a dataset somebody needs to trust and can't y
   pseudo-Shakespearean. Written in a posit::conf(2026) workshop. Not serious;
   tested anyway.
 
-### Also
-
-Teaching data management and survey methods to graduate students. Generating
-synthetic versions of Nebraska's statewide longitudinal data so researchers can
-work with it without exposing anyone. An earlier life in sport and exercise
-science, which is where the neuromuscular physiology papers came from.
-
 [amelia-m.github.io](https://amelia-m.github.io) ·
 [ORCID](https://orcid.org/0000-0002-0277-4064) ·
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=AcbJlasAAAAJ)
