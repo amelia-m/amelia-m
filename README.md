@@ -19,9 +19,13 @@ Most of it starts the same way: a dataset somebody needs to trust and can't yet.
   weather for my drop zone. Every flag cites the published USPA, FAA, or club
   rule behind it, and where nothing published sets a threshold, it raises no
   flag at all.
-- **[pleasantry](https://github.com/amelia-m/pleasantry)**: randomized
-  compliments and farewells, from sincere through backhanded to
-  pseudo-Shakespearean. Started for fun in a posit::conf(2026) workshop.
+- **[mplusplus](https://github.com/amelia-m/mplusplus)**: open Mplus `.dgm`
+  diagrams and `.out` model output in the browser and turn them into SVG path
+  diagrams you can rearrange and restyle, with significance marked from the
+  output. Runs from a local file, no server.
+- **[pleasantry](https://github.com/amelia-m/pleasantry)**: a toy project
+  started in a workshop at posit::conf(2026). Randomized compliments and
+  farewells, from sincere through backhanded to pseudo-Shakespearean.
 
 [amelia-m.github.io](https://amelia-m.github.io) ·
 [ORCID](https://orcid.org/0000-0002-0277-4064) ·
