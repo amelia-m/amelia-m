@@ -21,8 +21,7 @@ Most of it starts the same way: a dataset somebody needs to trust and can't yet.
   flag at all.
 - **[pleasantry](https://github.com/amelia-m/pleasantry)**: randomized
   compliments and farewells, from sincere through backhanded to
-  pseudo-Shakespearean. Written in a posit::conf(2026) workshop. Not serious;
-  tested anyway.
+  pseudo-Shakespearean. Started for fun in a posit::conf(2026) workshop.
 
 [amelia-m.github.io](https://amelia-m.github.io) ·
 [ORCID](https://orcid.org/0000-0002-0277-4064) ·
